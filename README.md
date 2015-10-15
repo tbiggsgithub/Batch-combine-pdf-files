@@ -13,3 +13,7 @@ In Notepad (or other text editor), put the following command:
 ```
 
 where "alltables.pdf" will be the output file, and table_1.pdf...is the list of your pdf files.
+
+Save the text file as a .bat file in the directory that has the pdf files.  To do this in Notepad, save the file using " " marks:  "pdfcombine.bat"
+
+Now, double click on the .bat file in Windows Explorer, and you should see your "alltables.pdf" file.
